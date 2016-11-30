@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HotelReservation</string>
+    <string name="judul_hotel_inna">Hotel Inna Grand</string>
+    <string name="alamat_hotel_inna">Puri Pegangsangan Agung Pemecutan</string>
+    <string name="rating_hotel_inna">Rating 4.0</string>
+    <string name="harga_hotel_inna">300K</string>
+    <string name="judul_hotel_jaffara">Hotel Jaffara</string>
+    <string name="alamat_hotel_jaffara">Jalan Margonda Raya</string>
+    <string name="rating_hotel_jaffara">Rating 3.5</string>
+    <string name="harga_hotel_jaffara">250K</string>
+</resources>
